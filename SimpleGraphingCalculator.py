@@ -1,10 +1,4 @@
-#Grade10ComputerSciencePythonCulminatingFinal.1-MohitSharma.py
-#ICS201, Mohit
-#May, 21st 2019
-
-#Finished on June 14th 2019 
-
-
+#SimpleGraphingCalculator.py
 
 #The code below imports the needed modules like turtle and random
 import random

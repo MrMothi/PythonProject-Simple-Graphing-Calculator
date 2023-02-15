@@ -1062,7 +1062,7 @@ if calculatorType == 1:
                 #Printing the a variable
                 print("The a variable of the equation is:", a)
                 print()
-                print("Graphing of the Eqaution is Complete")
+                print("Graphing of the Equation is Complete")
 
                 #Asking the user if they are done graphing this equation type
                 notdone()

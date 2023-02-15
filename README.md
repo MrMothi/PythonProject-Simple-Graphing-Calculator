@@ -3,11 +3,13 @@ A simple math function grapher using regular Python and the Python Turtle librar
 
 
 Title Screen Drawn With Python Turtle:
-![image](https://user-images.githubusercontent.com/90167278/218930302-5b0456e1-fc70-4486-b6eb-96be78108a2f.png)
 
+<img src="https://user-images.githubusercontent.com/90167278/218930302-5b0456e1-fc70-4486-b6eb-96be78108a2f.png" width="500" height="500">
 
 Console Input With Function Shown With Python Turtle: 
 
+<img src="https://user-images.githubusercontent.com/90167278/218934063-1275c935-42d8-43e2-9df2-2374bd59e216.png" height="400">
+<img src="https://user-images.githubusercontent.com/90167278/218934612-ad5af519-f67e-4ad8-a58e-7f9a947ed63f.png" width="500" height="500">
 
 
 
